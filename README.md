@@ -1,3 +1,7 @@
+<p align="center" dir="auto">
+  <a target="_blank" rel="noopener noreferrer" href="https://www.nexx.info"><img src="https://www.nexx.info/img/favicon-200x200.png" width="64" data-canonical-src="https://www.nexx.info/img/favicon-200x200.png" style="max-width: 100%;"></a>
+  <br>
+</p>
 <h3 align="center">NEXX COIN</h3>
 <p align="center" dir="auto">
   <span align="center">Smart Contract <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png"><img class="emoji" alt="rocket" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png"></g-emoji></span>
