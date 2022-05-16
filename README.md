@@ -12,7 +12,7 @@
 <p align="center" dir="auto">
   <a href="https://www.nexx.info/whitepaper.html">Whitepaper</a>
   •
-  <a href="https://github.com/NEXXCOIN/nexxcoin.sol">Smart Contract</a>
+  <a href="https://github.com/NEXXCOIN/nexxcoin.sol/blob/main/Nexxcoin.sol">Smart Contract</a>
   •
   <a href="https://bscscan.com/token/0x67390bA52b33c0d2850bA52B4939005D0798e0C1">Block Explorer</a>
 </p>
