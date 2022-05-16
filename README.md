@@ -1,4 +1,4 @@
-<h3 style="text-align:center">NEXX COIN</h3>
+<h3 align="center">NEXX COIN</h3>
 
 
 # nexxcoin.sol
